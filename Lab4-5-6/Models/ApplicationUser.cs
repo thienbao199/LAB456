@@ -4,11 +4,13 @@ using System.Threading.Tasks;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using System.ComponentModel.DataAnnotations;
+using System.Collections.Generic;
 
 namespace Lab4_5_6.Models
 {
     public class ApplicationUser : IdentityUser
     {
+        public ICollection<object> Follwers { get; internal set; }
         [Required]
         [StringLength(255)]
         public string Name { get; set; }
