@@ -168,3 +168,4 @@ C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4_5_6.Migration
 C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4-5-6.csproj.GenerateResource.Cache
 C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4-5-6.dll
 C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4-5-6.pdb
+C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4_5_6.Migrations.AddNameColumnToApplicationUser.resources
