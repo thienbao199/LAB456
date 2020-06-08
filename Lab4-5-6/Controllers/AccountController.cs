@@ -1,4 +1,4 @@
-﻿using System;
+﻿    using System;
 using System.Globalization;
 using System.Linq;
 using System.Security.Claims;
@@ -151,7 +151,7 @@ namespace Lab4_5_6.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
+                var user = new ApplicationUser { UserName = model.Email, Email = model.Email, Name = model.Name };
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
