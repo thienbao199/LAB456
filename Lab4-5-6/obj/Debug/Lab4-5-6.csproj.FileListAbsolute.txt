@@ -161,7 +161,6 @@ C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\bin\Microsoft.Owin.Security.
 C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4-5-6.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4_5_6.Migrations.InitialModel.resources
 C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4_5_6.Migrations.CreateTableCourse.resources
 C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4_5_6.Migrations.PopulateCategoryTable.resources
@@ -170,3 +169,12 @@ C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4-5-6.dll
 C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4-5-6.pdb
 C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4_5_6.Migrations.AddNameColumnToApplicationUser.resources
 C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4_5_6.Migrations.AddAttendance.resources
+C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\bin\System.Web.Http.dll
+C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\bin\System.Web.Http.xml
+C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4_5_6.Migrations.AddFollowingsTable.resources
+C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4-5-6.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\LAB456\Lab4-5-6\obj\Debug\Lab4_5_6.Migrations.AddIsCanceledColumnToCourse.resources
